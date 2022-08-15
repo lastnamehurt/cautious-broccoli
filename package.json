@@ -1,0 +1,28 @@
+{
+  "name": "hw-podium",
+  "version": "1.0.0",
+  "description": "podium QA take-home",
+  "main": "index.js",
+  "repository": "https://github.com/lastnamehurt/hw-podium.git",
+  "author": "lastnamehurt <clhurt1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "cypress-grep": "^3.0.2",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "cypress-iframe": "^1.0.1"
+  },
+  "scripts": {
+    "build": "docker build .",
+    "test": "npx cypress run",
+    "test:ci": "npx cypress run --env grepTags=-@failing",
+    "test:smoke": "npx cypress run --env grepTags=@smoke",
+    "test:regression": "npx cypress run --env grepTags=@regression",
+    "test:passing": "npx cypress run --env grepTags=-@failing",
+    "test:failing": "npx cypress run --env grepTags=@failing",
+    "test:debug": "npx cypress open",
+    "prettier": "npx prettier --write ."
+  }
+}

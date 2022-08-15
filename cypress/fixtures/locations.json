@@ -1,0 +1,42 @@
+[
+  {
+    "address": "561 Johnson St #101, Victoria, BC V8W 1M2, Canada",
+    "displayName": "Viktoria",
+    "enrolledInFlows": false,
+    "id": "225481",
+    "podiumNumber": "+19362376431",
+    "uid": "a190ff1a-4ccd-50c3-a341-804fee3bec5b"
+  },
+  {
+    "address": "765 West State Road, American Fork, UT 84003, United States",
+    "displayName": "Scoreboard Sports - Orem",
+    "enrolledInFlows": false,
+    "id": "63146",
+    "podiumNumber": "+13853043267",
+    "uid": "dd700dc6-6cf8-543b-bbe6-a189041b276a"
+  },
+  {
+    "address": "6680 Little Cottonwood Canyon Rd, Sandy, UT 84092, United States",
+    "displayName": "Scoreboard Sports - Pocatello",
+    "enrolledInFlows": false,
+    "id": "96126",
+    "podiumNumber": "+14352461250",
+    "uid": "012f94dd-7c1c-5a9e-92d6-acb445e0439e"
+  },
+  {
+    "address": "1402 E Main St, Lehi, UT 84043, United States",
+    "displayName": "Scoreboard Sports - Bountiful",
+    "enrolledInFlows": false,
+    "id": "63145",
+    "podiumNumber": "+13853504035",
+    "uid": "274fe7f7-8b01-5015-8732-ea76483859f1"
+  },
+  {
+    "address": "6680 Little Cottonwood Canyon Rd, Sandy, UT 84092, United States",
+    "displayName": "Scoreboard Sports - Narnia",
+    "enrolledInFlows": false,
+    "id": "89466",
+    "podiumNumber": "+14352387142",
+    "uid": "b44f5b91-8232-5bb5-ac47-c4def32a6bb5"
+  }
+]

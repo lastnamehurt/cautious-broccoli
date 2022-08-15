@@ -1,0 +1,8 @@
+{
+  "contactName": "Tester",
+  "contactPhoneNumber": "9999999999",
+  "message": "This is a test message 1",
+  "zipCode": "12345",
+  "invalidZipCode": "1234512345123451234512345123451234512345",
+  "locationName": "HQ Location"
+}
